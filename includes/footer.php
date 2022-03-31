@@ -94,7 +94,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="copyright-text">
-            <p>© 2021
+            <p>© 2022
               <a href="#">Hire Hub PH</a>. All rights reserved. 
             </p>
           </div>
